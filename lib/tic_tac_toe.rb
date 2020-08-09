@@ -82,6 +82,5 @@ class TicTacToe
       won = @board[winner.first]
     end
   end
-  end 
   
 end 
